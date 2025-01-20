@@ -1,0 +1,14 @@
+
+{
+  "extends": [
+    "next/core-web-vitals",
+    "standard",
+    "plugin:tailwindcss/recommended",
+    "prettier"
+  ],
+  "rules": {
+    "object-shorthand": "off"
+  }
+}
+
+
